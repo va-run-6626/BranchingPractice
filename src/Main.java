@@ -5,5 +5,7 @@ public class Main {
         for(int i = 0; i < 89; i++){
             System.out.println(i);
         }
+        //manas
+        System.out.println("hello world");
     }
 }
