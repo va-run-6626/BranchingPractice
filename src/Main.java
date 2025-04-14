@@ -8,5 +8,9 @@ public class Main {
         //hrithika
         for(int j=0; j<10; j++)
            System.out.println(j);
+
+        //manas
+           System.out.println("hello world");
+  
     }
 }
